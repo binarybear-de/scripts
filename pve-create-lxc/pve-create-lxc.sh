@@ -1,4 +1,7 @@
 #!/bin/bash +e
+# script to create a Proxmox LXC container from the shell
+# configuration will be asked interactively, defaults are configurable to allow a 'just enter trough' deployment
+# https://github.com/binarybear-de/scripts
 
 ############################################################################
 # Stage 0 - variables init
